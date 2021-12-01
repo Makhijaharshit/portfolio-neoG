@@ -16,7 +16,7 @@
  .container-centre { 
      max-width: width 600px;
      margin:auto;
-
+    text-align: center;
  }
  .link{
       text-decoration:none ;
